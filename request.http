@@ -1,0 +1,20 @@
+POST http://localhost:4002/products 
+Content-Type: application/json
+
+{
+    "name":"navios",
+    "price": 200
+} 
+###
+    
+
+PUT http://localhost:4002/products/b512b5fe-ac1c-4714-bebc-c7a41d1f4ab4
+Content-Type: appication/json
+
+{
+    "name": "testando 1.0",
+    "price": 0
+}
+
+
+    

@@ -1,0 +1,5 @@
+
+
+GET http://localhost:4002/products/
+###
+GET http://localhost:4002/products/3f6eaf8d-b45e-4fee-9c17-ae48e73e377e
